@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MSFPractica 2
+message: Práctica 2 sistema cardiovascular
+type: software
+authors:
+  - given-names: Adriana
+    family-names: Bañuelos
+    email: L23210694@tijuana.tecnm.mx
+identifiers:
+  - type: url
+    value: >-
+      https://matlab.mathworks.com/open/github/v1?repo=Adriana-03-b/MSPractica2
+keywords:
+  - Sistema cardiovascular
+  - 'Modelo de windkessel '
+  - Presión arterial
+  - Función de transferencia
+  - Análisis matemático
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-23'
